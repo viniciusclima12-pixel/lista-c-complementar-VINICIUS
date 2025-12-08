@@ -12,11 +12,12 @@ int main(){
     scanf(" %d", &numero);
     
     for(i=1; i<=numero; i++){
-        printf("%d", i ,( + i));
+        printf("%d", i ,);
     }
    
     
 
     system("pause");
     return 0;
+
 }
